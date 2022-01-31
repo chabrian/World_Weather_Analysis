@@ -1,1 +1,3 @@
 # World_Weather_Analysis
+
+In this project, I used the OpenWeatherMap and Google Maps APIs to create interactive maps based on randomly generated locations. The interactive maps include heat maps based on the current weather data and vacation itinerary maps where the user can input their minimum and maximum desired temperature range for vacation spots. The third created map uses the google directions API to plan a vacation trip around the New South Wales region of Australia. Each map has markers for the chosen locations that specify a local hotel, the city name, country, and current weather data.
